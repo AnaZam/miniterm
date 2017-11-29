@@ -1,0 +1,4 @@
+ reCaptcha:
+    enabled: true
+    siteKey: "6LdX2zoUAAAAAIY2D7KD6H5Gn2go1I9VKpgu89ei"
+secret: "xtrsIXGb8bMdDF4jJdkIkyClE/gkYJu8lmE5e0cla1qvv6+Xv+Gah23qNyYbfFDV6wwihYGXwhiv3yA5js9gbO4S+ZewTnYE9fMgJdYxYkUUkhB10PX+qve3DNWpzQZUTXFd9W/iogbXfI7qe6ZC88roOcEL/jbCGrhzYUj9SMU="
